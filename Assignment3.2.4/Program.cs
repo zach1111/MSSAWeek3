@@ -14,4 +14,18 @@ The total is 75
 */
 
 
-Console.WriteLine("Hello, World!");
+
+TotalAndAverage(out double total, out double average, 10, 15, 20, 30);
+Console.WriteLine($"total = {total}, avg = {average}");
+
+void TotalAndAverage(out double total, out double average, params double[] numbers)
+{
+    total = 0;
+    foreach (double d in numbers)
+    {
+        total += d;
+    } 
+
+    average = total / numbers.Length;
+    return; 
+}

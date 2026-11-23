@@ -10,11 +10,7 @@ ReturnEvenNumbers() → "2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40
 
 using System.Text; 
 
-
-
 Console.WriteLine(ReturnEvenNumbers());
-
-
 
 string ReturnEvenNumbers()
 {
@@ -22,8 +18,7 @@ string ReturnEvenNumbers()
 
     for ( int i = 2; i < 100; i += 2)
     {
-        myBuilder.Append(i);
-        myBuilder.Append(" ");
+        myBuilder.Append(i + " ");
     }
     return myBuilder.ToString();
 }

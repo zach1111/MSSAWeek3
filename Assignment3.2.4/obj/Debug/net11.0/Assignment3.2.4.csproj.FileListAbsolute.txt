@@ -1,0 +1,17 @@
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\obj\Debug\net11.0\Assignment3.2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\obj\Debug\net11.0\Assignment3.2.4.AssemblyInfoInputs.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\obj\Debug\net11.0\Assignment3.2.4.AssemblyInfo.cs
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\obj\Debug\net11.0\Assignment3.2.4.csproj.CoreCompileInputs.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\obj\Debug\net11.0\Assignment3.2.4.sourcelink.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\bin\Debug\net11.0\Assignment3.2.4.exe
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\bin\Debug\net11.0\Assignment3.2.4.deps.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\bin\Debug\net11.0\Assignment3.2.4.runtimeconfig.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\bin\Debug\net11.0\Assignment3.2.4.runtimeconfig.dev.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\bin\Debug\net11.0\Assignment3.2.4.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\bin\Debug\net11.0\Assignment3.2.4.pdb
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\obj\Debug\net11.0\Assignment3.2.4.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\obj\Debug\net11.0\refint\Assignment3.2.4.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\obj\Debug\net11.0\Assignment3.2.4.pdb
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\obj\Debug\net11.0\Assignment3.2.4.genruntimeconfig.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\obj\Debug\net11.0\ref\Assignment3.2.4.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.2.4\obj\Debug\net11.0\Assignme.B3C74E4B.Up2Date

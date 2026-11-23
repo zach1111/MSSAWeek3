@@ -5,12 +5,13 @@ Given a year as integer, write a method that checks if year is leap.
 
 Expected input and output
 
-IfYearIsLeap(2016) → true IfYearIsLeap(2018) → false
+IfYearIsLeap(2016) → true    IfYearIsLeap(2018) → false
 
 background: leap years are years where
-• Divisible by 4: Usually a leap year (e.g., 2024, 2028).
-• Divisible by 100: Not a leap year (e.g., 1700, 1800, 1900, 2100).
-• Divisible by 400: Leap year (e.g., 1600, 2000, 2400)
+• Divisible by 400: DEFINITELY Leap year (e.g., 1600, 2000, 2400).
+• Divisible by 100: Not a leap year (e.g., 1700, 1800, 1900, 2100) EXCEPT  400 rule ^
+• Divisible by 4:  a leap year (e.g., 2024, 2028). EXCEPT 100 rule^
+
 */
 
 Console.WriteLine(IsLeapYear(2016)); //expected true
@@ -35,6 +36,8 @@ bool IsLeapYear(int Year)
     {
         return true;
     }
-
-    return false;
+    else
+    {
+        return false;
+    }
 }
