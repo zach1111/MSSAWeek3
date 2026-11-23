@@ -1,0 +1,16 @@
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\bin\Debug\net11.0\Assignment3.1.1.exe
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\bin\Debug\net11.0\Assignment3.1.1.deps.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\bin\Debug\net11.0\Assignment3.1.1.runtimeconfig.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\bin\Debug\net11.0\Assignment3.1.1.runtimeconfig.dev.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\bin\Debug\net11.0\Assignment3.1.1.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\bin\Debug\net11.0\Assignment3.1.1.pdb
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignment3.1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignment3.1.1.AssemblyInfoInputs.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignment3.1.1.AssemblyInfo.cs
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignment3.1.1.csproj.CoreCompileInputs.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignment3.1.1.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\refint\Assignment3.1.1.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignment3.1.1.pdb
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignment3.1.1.genruntimeconfig.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\ref\Assignment3.1.1.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignme.325E4237.Up2Date
