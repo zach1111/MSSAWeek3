@@ -1,0 +1,42 @@
+﻿namespace Assignment3._4._1;
+
+using System.ComponentModel;
+
+{
+    /* Create an abstract base class to represent “Beverage” and inherit “Coffee” class from it. Create a list ( you may use List class) of coffees. 
+     * Design windows form application to display the list of coffees in grid and perform add/ delete.
+       Keep some base properties in Beverage class which can be inherited in Coffee. Inherited class can have more specific properties. Properties are customizable as needed.
+    */
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+
+            List<Coffee> coffees = new List<Coffee>();
+
+            coffees.Add(new Coffee { Name = "Espresso", Temperature = "Hot", Roast = "Dark", Origin = "Namibia" });
+            coffees.Add(new Coffee { Name = "Latte", Temperature = "Hot", Roast = "Medium", Origin = "USA" });
+            coffees.Add(new Coffee { Name = "Cappuccino", Temperature = "Hot", Roast = "Light", Origin = "Brazil" });
+
+            var bindingList = new BindingList<Coffee>(coffees);
+            var source = new BindingSource(bindingList, null);
+            dataGridView1.DataSource = source;
+        }
+    }
+
+
+
+
+    abstract class Beverage
+    {
+        public string Name { get; set; }
+        public string Temperature { get; set; }
+    }
+
+    class Coffee : Beverage
+    {
+        public string Roast { get; set; }
+        public string Origin { get; set; }
+    }
+}
